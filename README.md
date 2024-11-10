@@ -1,2 +1,1 @@
-# eplantshopping
-For CourseEra course
+# coding-project-template
